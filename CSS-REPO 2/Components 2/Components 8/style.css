@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+img{
+    width: 400px;
+    border-radius: 10px 10px 0 0;
+}
+
+div{
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    border-radius: 10px;
+    margin: 100px 540px;
+}
+
+body{
+    background-image: url('https://img.freepik.com/premium-photo/businessman-handshake-business-partners-successful-investment-deal-economic-growth-graph_34200-483.jpg');  
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+h2{
+    font-weight: 400;
+    font-size: 20px;
+    margin: 15px;
+}
+
+ li{
+    color: rgb(61, 61, 61);
+    list-style-type: circle;    
+ }
+
+ button{
+    background-color: red;
+    color: white;
+    border: solid red;
+    height: 30px;
+ }
+ input{
+    height: 30px;
+    width: 250px;
+    
+ }
+ table{
+    margin-left: 20px;
+    margin-top: 50px;
+ }

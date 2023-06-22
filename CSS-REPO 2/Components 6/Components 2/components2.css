@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Public+Sans:wght@700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    background: linear-gradient(45deg, rgb(135, 11, 169), rgb(40, 255, 147));
+    text-align: center;
+}
+
+body{
+    font-family: 'Public Sans', sans-serif;
+} 
+
+div{
+    background-color: white;
+    width: 350px;
+    height: 300px;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.icon1{
+    color: orangered;
+    font-size: 80px;
+    margin-top: 20px;
+}
+
+.icon2{
+    color: rgb(0, 64, 255);
+    font-size: 80px;
+    margin-top: 20px;
+}
+
+.icon3{
+    color: rgb(255, 115, 0);
+    font-size: 80px;
+    margin-top: 20px;
+}
+
+.icon4{
+    color: rgb(255, 57, 149);
+    font-size: 80px;
+    margin-top: 20px;
+}
+ 
+.icon5{
+    color: rgb(26, 60, 254);
+    font-size: 80px;
+    margin-top: 20px;
+}
+
+.icon6{
+    color: rgb(92, 182, 255);
+    font-size: 80px;
+    margin-top: 20px;
+}
+
+h1{
+    color: white;
+    padding-top: 30px;
+    font-size: 40px;
+    text-shadow: 1px 1px 1px black;
+}
+
+h2{
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+p{
+    color: rgb(61, 61, 61);
+    margin: 20px;
+}
+
+button{
+    background-color: rgb(53, 53, 53);
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+    border: none;
+}
+
+table{
+    margin-left: 180px;
+    padding-bottom: 50px;
+    
+}

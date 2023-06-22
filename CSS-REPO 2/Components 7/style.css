@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Geologica&display=swap');
+
+body{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+    
+}
+
+.contact{
+    padding-top: 100px;
+}
+
+h1{
+    font-size: 50px;
+
+}
+
+h3{
+    letter-spacing: 5px;
+    color: rgb(97, 97, 97);
+}
+
+i{
+    color: rgb(46, 46, 46);
+    font-size: 30px;
+}
+
+p{
+    color: rgb(107, 107, 107);
+    font-family: 'Geologica', sans-serif;
+}
+td p{
+    color: rgb(42, 42, 42);
+}
+
+table{
+    margin-left: 24%;
+    margin-top: 10px;
+}
