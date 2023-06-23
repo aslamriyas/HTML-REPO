@@ -1,0 +1,7 @@
+p::first-letter{
+    color: aliceblue;
+    background-color: black;
+    font-size: 50px;
+    box-shadow: 2px 2px red;
+
+}

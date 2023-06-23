@@ -1,0 +1,6 @@
+p:nth-child(odd){
+    color:rgb(255, 191, 0) ;
+}
+p:nth-child(even){
+    color: rgba(6, 178, 197, 0.812);
+}

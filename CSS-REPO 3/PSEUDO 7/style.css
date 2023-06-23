@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(215, 215, 215);
+}
+p:Before{
+    content: "Before";
+    font-size: 50px;
+    color: rgb(189, 23, 23);
+}
+p:After{
+    content: "After";
+    font-size: 50px;
+    color: rgb(214, 26, 26);
+}
