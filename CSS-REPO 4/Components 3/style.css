@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(73, 155, 174);
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid rgb(73, 125, 174);
+    padding: 5px;
+}
+.card1,.card2,.card3{
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    margin: 30px;
+    padding: 20px;
+}
+h1{
+    color: white;
+    font-size: 45px;
+    margin-top: 50px;
+    font-weight: 900;
+}
+
+.fbutton{
+    border: 1px solid rgb(154, 73, 174);
+    padding: 10px;
+    width: 40%;
+    border-radius: 5px;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.lbutton{
+    border: 1px solid rgb(154, 73, 174);
+    background-color: rgb(154, 73, 174);
+    color: white;
+    padding: 10;
+    width: 50%;
+    border-radius: 5px;
+    font-size: 15px;
+    margin: 10px;  
+}
+
+.card1{
+    margin-left: 200px;
+    float: left;
+}
+.card2{
+    float: left;
+}
+.card3{
+
+    float: left;
+
+}
+
+.text{
+    margin-top: 550px;
+}
+
+.name{
+    color: rgb(73, 174, 171);
+}

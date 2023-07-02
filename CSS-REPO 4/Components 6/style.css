@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+*{
+    border: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: rgb(16, 147, 81);
+}
+
+.img1{
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.img2{
+    width: 120px;
+    height: 150px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.img3{
+    width: 120px;
+    height: 150px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.card1{
+    display: flex;
+    width: 800px;
+    height: 300px;
+    line-height: 1.2;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.564);
+    border-radius: 10px;
+    position: relative;
+    top: 100px;
+    left: 320px;
+}
+
+.card2{
+    display: flex;
+    width: 385px;
+    height: 150px;
+    line-height: 0.5;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.564);
+    border-radius: 10px;
+    position: relative;
+    top: 120px;
+    left: 320px;
+
+}
+
+.card3{
+    display: flex;
+    width: 385px;
+    height: 150px;
+    margin-left: 600px;
+    margin-top: -150px;
+    line-height: 0.5;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.564);
+    border-radius: 10px;
+    position: relative;
+    top: 120px;
+    left: 135px;
+
+}
+
+.art1{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.art2{
+    margin-left: 20px;
+    margin-top: 20px;
+    line-height:;
+}
+
+.art3{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.like{
+    float: right ;
+    position: relative;
+    top: -20px;
+    right: 20px;
+    font-size: 20px;
+}
+
+.like2{
+    float: right ;
+    position: relative;
+    top: -20px;
+    right: -35px;
+    font-size: 20px;
+}
+
+.like3{
+    float: right ;
+    position: relative;
+    top: -20px;
+    right: -45px;
+    font-size: 20px;
+}
+.star{
+    color: goldenrod;
+    font-size: 15px;
+}
+
+p{
+    color: rgb(85, 85, 85);
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+i{
+    color: black;
+    font-size: 12px;
+}
+
+h1{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 15px;
+    margin-top: 5px;
+}
