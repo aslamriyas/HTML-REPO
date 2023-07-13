@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto&display=swap');
+body{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png);
+    height: 100vh;
+    width: 100vw;   
+    background-size: cover;
+}
+.card{
+    background-color: #000000e6;
+}
+.heaDing{
+    font-family: 'Bree Serif', serif;
+}
+.sub_Heading{
+    font-family: 'Roboto', sans-serif;
+}

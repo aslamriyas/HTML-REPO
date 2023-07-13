@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+} 
+.heading_Title{
+    background-color: #fc3960;
+    height: 200px;
+    padding: 20px;
+}
+.profile_Photo{
+    margin-top: -160px;
+}
+.player_Profile{
+    height: 180px;
+    width: 600px;
+}
+
+.sub_Heading{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.footer_Heading{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.video_Card{
+    border: none;
+}
+.button_View{
+    margin-left: 150px;
+}
+
+@media screen and (max-width: 546px) {
+    .player_Profile{
+        height: 180px;
+        width: 200px;
+    }
+    .profile_Photo_1{
+       height: 190px;
+       width: 180px; 
+    }
+    .video_Card{
+        font-size: 15px;
+    }
+}

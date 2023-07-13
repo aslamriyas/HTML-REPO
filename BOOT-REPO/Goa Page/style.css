@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.d-block{
+    height: 50vh;
+    object-fit:cover;
+}
+iframe{
+    border-radius: 10px;
+}
+p{
+    color:#9aa5b1;
+}
+h2,h3{
+    color:#323f4b;
+}

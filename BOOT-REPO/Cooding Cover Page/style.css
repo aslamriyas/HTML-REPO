@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+body{
+    background-image: url( https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png);
+    background-size: cover;
+    width: 100vw;
+    height:100vh ;
+}
+.box{ 
+    width: 330px; 
+    height: 330px;
+    border: 10px solid #48ee59;
+    background-color:#00000080 ;
+    font-family: Bree Serif;
+    font-size: 40px;
+}

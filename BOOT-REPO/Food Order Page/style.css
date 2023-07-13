@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto&display=swap');
+body{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+    height: 200vh;
+    width: 100vw;   
+    background-size: cover;
+}
+.main{
+    background-color: #f6c56e;
+}
+.heaDing{
+    font-family: 'Bree Serif', serif;
+}
+.sub_Heading{
+    font-family: 'Roboto', sans-serif;
+}

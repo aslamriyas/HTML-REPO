@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://static-cse.canva.com/blob/572026/removingbackgroundimages_Unsplash.jpeg");
+    background-size: contain;
+}
+
+@media screen and (max-width: 500px)
+{
+    .taj_Mahal{
+        margin-top: 20px;
+        height: 300px;
+    }
+    .golden-temple{
+        margin-top: 20px;
+        height: 300px;
+    }
+    .mysore_place{
+        margin-top: 60px;
+        padding: 10px;
+        height: 300px;
+    }
+}
